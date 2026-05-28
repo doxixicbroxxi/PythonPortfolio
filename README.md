@@ -19,4 +19,4 @@ Project 4: grocerystore.py
 
 Project 5: search.py
 |Summary: Searches for a generated number using binary and linear searches.
-|Key features: Includes both search types, not only searching but also comparing the number of attempts based on a generated number. 
+|Key features: Includes both search types and can run both tests on one terminal execution. It not only searches but also compares the number of attempts based on a generated number. 
